@@ -18,3 +18,5 @@ On Windows `scoop install maven`.
 
 `javar -jar ./target/account-xxxx.jar`
 
+Open a browser and visit `http://localhost:7070`
+
